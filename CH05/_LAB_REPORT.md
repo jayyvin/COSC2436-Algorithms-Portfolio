@@ -13,8 +13,9 @@
 ## Reflection Questions
 
 1. **Explain a hash table to someone who has never programmed.**
-   - *Mailboxes in a lobby, or a coat check, both work. Say what the hash function corresponds to.*
+   - *A hash table to someone who has never programmed is like where you have a bunch of desks where these desks are getting notes to a different place. It decides what desk to send a note from info.*
 
 2. **Chapter 5 says lookups are fast "on average." When is that not true, and what makes it go wrong?**
-
+    - *Lookups can be slower because items will show up twice.This happening can prolong the software and delay the solution.*
 3. **Your page cache avoided repeating expensive work. Where have you seen caching in software you use?**
+ - *I have seen caching in software to help save different information. This can help it load faster .*
