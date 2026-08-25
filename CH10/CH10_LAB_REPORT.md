@@ -39,6 +39,6 @@ Part 3: Exact solver combinations to check for 100 stations
    - *Packing a suitcase and choosing something that fits and is the best choice.So it keeps choosing the best option avaliable instead of looking at every option*
 
 2. **Greedy was perfect for scheduling and wrong for the knapsack. What changed about the problem?**
-- *Picking stero wasnt the best choice so algorith doesnt work for it*
+- *Picking stero wasnt the best choice so algorith doesnt work for it. It was because there was another option that was more perfect.*
 3. **You already wrote a greedy algorithm in an earlier lab — building the Huffman tree in Chapter 7 repeatedly merges the two lowest-frequency nodes. Is that one exactly optimal, or an approximation?**
-- *Huffman is optimal  *
+- *Huffman is optimal because it picks best choice based off off strategy. This makes it optimal.  *
