@@ -14,8 +14,9 @@ negative-weight result.*
 ## Reflection Questions
 
 1. **Explain Dijkstra's algorithm to someone who has never programmed.**
-   - *Planning a drive with traffic, or the book's piano trade, both work.*
+   - *Dijkstras algorithm works by finding the cheapeset way to go.It tracks the costs and chooses the lowest.*
 
 2. **Why does the algorithm always pick the cheapest unprocessed node next, instead of going in order?**
-
+-*The cost would represent the dsitacnce it helps it because it wont waste time checking other options.
 3. **Where does the "cost" on an edge come from in real routing software, and how does changing what you measure change the answer without changing the algorithm?**
+The cost comes from otyher factors and it all depends. If you change costs it will choose 
