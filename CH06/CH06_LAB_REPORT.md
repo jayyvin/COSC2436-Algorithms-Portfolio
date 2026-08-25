@@ -13,9 +13,10 @@
 ## Reflection Questions
 
 1. **Explain breadth-first search to someone who has never programmed.**
-   - *Asking your friends, then their friends, is exactly it. Say what the queue corresponds to.*
+   - *It checks by whatever is closest. Its kinda like word of mouth when it checks what is connected.*
 
 2. **Two people in your network each know the other. Walk through what happens without the `searched` set.**
+   - *It would keep going between the same people. It would go over and over and over because itll be the same people.*
 
 3. **Where does this show up in real software?**
-   - *"People you may know," shortest routes, network hops — pick one and say how it maps.*
+   - *It can be used to find the shortest amount of connections.*
